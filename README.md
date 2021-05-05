@@ -1,9 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nhan Nguyen</h1>
 <h3 align="center">Front-end developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nhan-nguyen-6218b21a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nhan-nguyen-linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/trinhan.vn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nhan-nguyen-facebook" height="30" width="40" /></a>
- <a href = "mailto:trinhan194@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<!-- 
+[![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/trinhan.vn/)
+ -->
+<a href="https://www.linkedin.com/in/nhan-nguyen-6218b21a7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nhan-nguyen-linkedin"/></a>
+<a href="https://www.facebook.com/trinhan.vn/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nhan-nguyen-facebook"/></a>
+ <a href = "mailto:trinhan194@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -36,3 +39,8 @@
 <p align="center"><i><b>GitHub Stats</b></i></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardnguyen225&show_icons=true&locale=en" alt="edwardnguyen225" width="410" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardnguyen225&show_icons=true&locale=en&layout=compact" alt="edwardnguyen225" /></p>
+
+<hr>
+Wanna see my CV, just click here.
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)
+
