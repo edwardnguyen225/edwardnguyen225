@@ -14,9 +14,9 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>FUN + Learning = BEST EXPERIENCE</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
-
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
 ✔ I'm considered myself as a productive user of ~~pomodoro~~ anime-doro.<br>
 ✔ Fun fact: I have a huge interest in anime, manga and comics.<br>
@@ -36,8 +36,3 @@
 <p align="center"><i><b>GitHub Stats</b></i></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardnguyen225&show_icons=true&locale=en" alt="edwardnguyen225" width="410" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardnguyen225&show_icons=true&locale=en&layout=compact" alt="edwardnguyen225" /></p>
-
-<hr>
-Wanna see my CV, just click here.
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)
-
