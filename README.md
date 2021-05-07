@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    This is me, Nhan Nguyen, a <b>senior</b> undergraduate from <a href="https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology"> <b>Ho Chi Minh City University of Technology</b></a>. <br>
+    This is me, Nhan Nguyen, a <b>junior</b> undergraduate from <a href="https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology"> <b>Ho Chi Minh City University of Technology</b></a>. <br>
     I am fascinated by the work of website development and creating modern, user-friendly interfaces ✨😍,
     <br>who is obsessed with the idea of improving himself and wants to seize for the chances to grow 🚀 and excel 😎 &nbsp.
   <br>
