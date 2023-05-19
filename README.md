@@ -25,10 +25,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 - 💻 &nbsp; Python
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Figma | Adobe Xd | GIMP
+- 🖥 &nbsp; Figma
 
 <br>
 <hr>
